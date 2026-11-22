@@ -1,0 +1,14 @@
+# Secrets - never commit your API key
+.streamlit/secrets.toml
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
